@@ -1,7 +1,7 @@
 baseURL = "https://nl.lgbt.sh"
 title = "MtF.wiki"
 theme = "zdoc"
-defaultContentLanguage = "en-us"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = false
 
